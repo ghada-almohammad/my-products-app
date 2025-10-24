@@ -1,4 +1,3 @@
-// app/products/components/FiltersSidebar.jsx
 'use client';
 import { useState } from 'react';
 
